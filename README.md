@@ -6,5 +6,11 @@ Uygulama hem konsol ekranında hemde Kullanıcı arabirimi (GUI) ile kullanılab
 GUI için  "tkinter" kütüphanesi kullanıldı.
 
 Değiştirilen Türkçe Karakterler;
+
 üğışçö
+
 ÜĞİŞÇÖ
+
+Uygulamanın Ekran Görüntüsü;
+
+![TKD_SS](TKD_SS.png)
