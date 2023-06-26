@@ -1,4 +1,4 @@
-# Türkçe Karakterleri Değiştir (TKD)
+# Türkçe HArfleri Değiştir (THD)
 
 Türkçe harfler barındıran metinleri, Türkçe harfsiz hale getiren/değiştiren basit bir uygulama.
 Bu uygulama python programlama dili ile yazıldı.
