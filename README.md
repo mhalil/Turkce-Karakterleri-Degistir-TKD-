@@ -13,4 +13,4 @@ Değiştirilen Türkçe Karakterler;
 
 Uygulamanın Ekran Görüntüsü;
 
-![TKD_SS](THD_SS.png)
+![THD_SS](THD_SS.png)
