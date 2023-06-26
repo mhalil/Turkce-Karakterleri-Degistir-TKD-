@@ -12,10 +12,10 @@ arkaplan_rengi_buton = "white"
 
 pencere.geometry("500x500+500+350")
 pencere.resizable("FALSE", "FALSE")
-pencere.title("Türkçe Karakterleri Değiştir (TKD)")
+pencere.title("Türkçe Harfleri Değiştir (THD)")
 pencere.configure(bg = arkaplan_rengi)
 
-# TÜRKÇE karakterlerin değiştirileceği karakterleri tanımlayan sözlük (dict) yapısı
+# TÜRKÇE harfleri değiştirileceği harfleri tanımlayan sözlük (dict) yapısı
 sozluk = {"ç" : "c",
           "ğ" : "g",
           "ı" : "i",
